@@ -1,7 +1,6 @@
 # landing-page
 
 My first landing page.
-It is my 
 
 This project is training my flexbox skills. It took me about 4 hours to create this page! 
 
